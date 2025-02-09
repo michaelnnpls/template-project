@@ -1,2 +1,5 @@
 ipykernel
 python-dotenv
+pandas
+sklearn
+matplotlib
